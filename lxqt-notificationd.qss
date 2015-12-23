@@ -1,0 +1,16 @@
+Notification {
+    background: #FFFFFF;
+    border-radius: 6px;
+}
+
+QLabel {
+    color: #1C1B19;
+}
+
+#appLabel {
+    color: #262626;
+}
+
+#closeButton {
+    qproperty-icon: url(lxqt-runner/close-48x48.png);
+}
